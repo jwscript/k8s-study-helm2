@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  k8s-study:
+  - apiVersion: v2
+    appVersion: 0.0.3
+    created: "2023-10-25T13:54:40.775469+09:00"
+    description: A Helm chart for Kubernetes
+    digest: d0d299b251588dd452fdec3fba54931182e89b4736836ec95da9dd189a7d501c
+    name: k8s-study
+    type: application
+    urls:
+    - k8s-study-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-10-25T13:54:40.773744+09:00"
